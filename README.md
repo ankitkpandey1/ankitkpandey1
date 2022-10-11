@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Kumar Pandey
-- 👀 I’m interested in Web and Ops.
-- 🌱 I’m currently learning Linux administration and various Web Technologies. 
+- 👀 I’m interested in distributed web applications, RDBMS and AI.
+- 🌱 I’m currently learning various Web Technologies. 
 - 💞️ I’m looking to collaborate on OSS projects.
 - 📫 Drop me mail @ankitkpandey1@gmail.com
 
